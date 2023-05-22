@@ -1,7 +1,7 @@
 // programa que coloca cinco numeros na ordem inversa 
 
 #include<stdio.h>
-
+int inverte(int a[5], int b);
 main()
 {
       int a[5], b;
