@@ -1,6 +1,4 @@
-
 // jogo do pontinho
-// programador: Maikon Monteiro
 
 #include<stdio.h>
 #include<ctype.h>
