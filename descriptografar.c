@@ -1,6 +1,4 @@
-
 // descriptografar texto do arquivo
-// programador: arquivo Monteiro
 
 #include<stdio.h>
 #include<ctype.h>
