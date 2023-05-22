@@ -1,6 +1,5 @@
 
 // criptografar texto e salvar em arquivo
-// programador: arquivo Monteiro
 
 #include<stdio.h>
 #include<ctype.h>
